@@ -214,3 +214,5 @@ a Random Forest + CatBoost blend (weight {meta['blend_weight_rf']:.2f} on RF), a
 (Random Forest + XGBoost + CatBoost combined by a Ridge meta-model).
 """
     )
+
+st.caption("Note: I used Claude (AI) for conceptual understanding and coding in this project.")
