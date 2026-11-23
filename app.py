@@ -215,4 +215,4 @@ a Random Forest + CatBoost blend (weight {meta['blend_weight_rf']:.2f} on RF), a
 """
     )
 
-st.caption("Note: I used Claude (AI) for conceptual understanding and coding in this project.")
+st.caption("Note: I use claude for frontend streamlit design and for serveral code snippets in this project")
